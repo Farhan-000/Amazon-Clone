@@ -1,0 +1,44 @@
+body{
+    
+    color: black;
+    text-align: center;
+    background-image: url(./premium_photo-1715107534944-66a006ef57c7.avif);
+     background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+#submit{
+     background-color: #008CBA;   /* Blue background */
+  color: black;                /* White text */
+  padding: 12px 24px;          /* Top/bottom + left/right padding */
+  font-size: 16px;             /* Text size */
+  border: 2px solid #007B9E;   /* Border with darker blue */
+  border-radius: 8px;          /* Rounded corners */
+  cursor: pointer;             /* Hand cursor on hover */
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+#box{
+  background-color: aquamarine;
+  /* color: black; */
+}
+.heading{
+  color: red;
+}
+button{
+  background-color: bisque;
+  color: blue;
+}
+p{
+  text-align: right;
+  text-decoration:blue wavy line-through;
+
+  
+}
+
+#one{
+  font-size: 300px;
+}
+#ff{
+  line-height: 2px;
+}
