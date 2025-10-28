@@ -223,7 +223,7 @@ ul a{
 }
 
 .logo{
-     background-image: url("/download.png");
+     background-image: url("./download.png");
     height: 50px;
     background-size: cover;
     width: 100px;
